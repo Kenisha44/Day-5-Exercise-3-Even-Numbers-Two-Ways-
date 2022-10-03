@@ -4,7 +4,7 @@ for even in range(2, 101, 2):
     even_numbers += even
 print(even_numbers)
 
-#other way to solve: 
+#other way to solve problem: 
 # total2 = 0 
 # for number in range(1,101):
 #     if number % 2 == 0:
